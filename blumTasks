@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "What is Slippage?",
+      "answer": "cryptobuzz"
+    },
+    {
       "name": "Crypto Slang. Part 1",
       "answer": "BLUMSTORM"
     },
