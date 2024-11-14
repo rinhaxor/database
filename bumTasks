@@ -168,7 +168,38 @@
         "pwd": "28932"
     },
     {
-        "name": "Find hidden code - watch Bums Show Episode 42",
-        "pwd": "50662"
+        "name": "boquaTask",
+        "tasks": [
+            {
+                "taskName": "React to Not Pixel collab!"
+            },
+            {
+                "taskName": "Boost channel"
+            },
+            {
+                "taskName": "invite 1 friend"
+            },
+            {
+                "taskName": "Subscribe to Pavel Durov's channel"
+            },
+            {
+                "taskName": "Join channel"
+            },
+            {
+                "taskName": "Click to earn BumsCoins: 1000"
+            },
+            {
+                "taskName": "Upgrade to LVL2"
+            },
+            {
+                "taskName": "Paint and earn tokens"
+            },
+            {
+                "taskName": "Subscribe to NexusVerse channel"
+            },
+            {
+                "taskName": "Add 📦 Bums to your name"
+            }
+        ]
     }
 ]
