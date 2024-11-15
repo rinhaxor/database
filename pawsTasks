@@ -1,0 +1,19 @@
+[
+    {
+        "name": "boquaTask",
+        "tasks": [
+            {
+                "taskName": "Boost PAWS channel"
+            },
+            {
+                "taskName": "Follow channel"
+            },
+            {
+                "taskName": "Invite 10 friends"
+            },
+            {
+                "taskName": "Connect wallet"
+            }
+        ]
+    }
+]
