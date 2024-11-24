@@ -248,6 +248,9 @@
                 "taskName": "Promote TON Blockchain"
             },
             {
+                "taskName": "Connect Wallet"
+            },
+            {
                 "taskName": "Promote TON Blockchain"
             }
         ]
