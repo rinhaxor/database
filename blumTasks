@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Crypto Regulations #2",
+      "answer": "BLUMRULES"
+    },
+    {
       "name": "What is Slippage?",
       "answer": "cryptobuzz"
     },
