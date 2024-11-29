@@ -1,0 +1,87 @@
+[
+    {
+        "name": "channelTask",
+        "tasks": [
+            {
+                "taskName": "Boost WONTON Channel"
+            },
+            {
+                "taskName": "Play HipoGame"
+            },
+            {
+                "taskName": "Get Not Bored Puppies"
+            },
+            {
+                "taskName": "Free Claim $DUCKS"
+            },
+            {
+                "taskName": "Launch GOATS Miniapp"
+            },
+            {
+                "taskName": "Launch Lil Piggies Restaurant"
+            },
+            {
+                "taskName": "Launch Monkey Miniapp"
+            },
+            {
+                "taskName": "Launch Otter Loot Miniapp"
+            },
+            {
+                "taskName": "Launch CyberCharge Miniapp"
+            },
+            {
+                "taskName": "Launch Eggdrop"
+            },
+            {
+                "taskName": "Launch TONTON Miniapp"
+            },
+            {
+                "taskName": "Launch UNK Miniapp"
+            },
+            {
+                "taskName": "Launch FreeDogs Miniappp"
+            },
+            {
+                "taskName": "Launch RealSpin Miniapp"
+            },
+            {
+                "taskName": "Launch DLCcoin Miniapp"
+            },
+            {
+                "taskName": "WATCH BananaTV Drama"
+            },
+            {
+                "taskName": "Play Memes.War game"
+            },
+            {
+                "taskName": "Launch Dejendog Miniapp"
+            },
+            {
+                "taskName": "Play AKEFFishn Miniapp"
+            },
+            {
+                "taskName": "Join Bool Bot & Unlock Boolean Badge"
+            }
+        ]
+    },
+    {
+        "name": "boquaTask",
+        "tasks": [
+            {
+                "taskName": "Connect with OKX"
+            },
+            {
+                "taskName": "Connect Wallet in Shop"
+            },
+            {
+                "taskName": "Join FunMe Channel"
+            },
+            {
+                "taskName": "Join MasterChef Channel"
+            },
+            {
+                "taskName": "Join WONTON Chat"
+            }
+        ]
+    }
+]
