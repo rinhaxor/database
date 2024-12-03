@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Crypto Communities",
+      "answer": "Blummunity"
+    },
+    {
       "name": "P2P Trading Safety Tips",
       "answer": "BLUMTIPS"
     },
