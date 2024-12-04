@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Is Binance a DEX?",
+      "answer": "Blumies"
+    },
+    {
       "name": "Crypto Communities",
       "answer": "Blummunity"
     },
