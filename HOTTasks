@@ -1,66 +1,68 @@
-[
-    {
-        "name": "Watch video: How to store crypto",
-        "pwd": "Security"
-    },
-    {
-        "name": "Watch video: About passive income in crypto",
-        "pwd": "PASSIVEEARNINGS"
-    },
-    {
-        "name": "Watch video: What is HOT Protocol?",
-        "pwd": "SIGN"
-    },
-    {
-        "name": "Watch video: About crazy crypto stories",
-        "pwd": "IMAGINATION"
-    },
-    {
-        "name": "Watch video: About crypto volatility",
-        "pwd": "POPCORN"
-    },
-    {
-        "name": "Watch video: Who is Market Makers",
-        "pwd": "profit"
-    },
-    {
-        "name": "Watch video: What is Crypto airdops",
-        "pwd": "FREE"
-    },
-    {
-        "name": "Watch video: What are Meme coins?",
-        "pwd": "Hype"
-    },
-    {
-        "name": "Watch video: What is Crypto swaps",
-        "pwd": "Commissions"
-    },
-    {
-        "name": "What is Airdrop in Crypto and How Does it Work? 💰",
-        "pwd": "DISCOVER"
-    },
-    {
-        "name": "Blockchain Ecosystem",
-        "pwd": "COMMUNITY"
-    },
-    {
-        "name": "Crypto Tokens Explained — Utility and Security Tokens, NFTs, Memecoins",
-        "pwd": "Explore And Learn"
-    },
-    {
-        "name": "Four Types of Blockchain Explained",
-        "pwd": "Try Island Hopping"
-    },
-    {
-        "name": "Beginners guide HOT Wallet",
-        "pwd": "SEED PHRASE"
-    },
-    {
-        "name": "What is Blockchain",
-        "pwd": "SMART CONTRACTS"
-    },
-    {
-        "name": "How to spend HOT from balance?",
-        "pwd": "HOT MINING"
-    }
-]
+{
+    "tasks": [
+        {
+            "name": "Watch video: How to store crypto",
+            "pwd": "Security"
+        },
+        {
+            "name": "Watch video: About passive income in crypto",
+            "pwd": "PASSIVEEARNINGS"
+        },
+        {
+            "name": "Watch video: What is HOT Protocol?",
+            "pwd": "SIGN"
+        },
+        {
+            "name": "Watch video: About crazy crypto stories",
+            "pwd": "IMAGINATION"
+        },
+        {
+            "name": "Watch video: About crypto volatility",
+            "pwd": "POPCORN"
+        },
+        {
+            "name": "Watch video: Who is Market Makers",
+            "pwd": "profit"
+        },
+        {
+            "name": "Watch video: What is Crypto airdops",
+            "pwd": "FREE"
+        },
+        {
+            "name": "Watch video: What are Meme coins?",
+            "pwd": "Hype"
+        },
+        {
+            "name": "Watch video: What is Crypto swaps",
+            "pwd": "Commissions"
+        },
+        {
+            "name": "What is Airdrop in Crypto and How Does it Work? 💰",
+            "pwd": "DISCOVER"
+        },
+        {
+            "name": "Blockchain Ecosystem",
+            "pwd": "COMMUNITY"
+        },
+        {
+            "name": "Crypto Tokens Explained — Utility and Security Tokens, NFTs, Memecoins",
+            "pwd": "Explore And Learn"
+        },
+        {
+            "name": "Four Types of Blockchain Explained",
+            "pwd": "Try Island Hopping"
+        },
+        {
+            "name": "Beginners guide HOT Wallet",
+            "pwd": "SEED PHRASE"
+        },
+        {
+            "name": "What is Blockchain",
+            "pwd": "SMART CONTRACTS"
+        },
+        {
+            "name": "How to spend HOT from balance?",
+            "pwd": "HOT MINING"
+        }
+    ]
+}
