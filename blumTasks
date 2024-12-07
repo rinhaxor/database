@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "DEX Evolution",
+      "answer": "BLUMDPARK"
+    },
+    {
       "name": "Dec 6 Crypto News",
       "answer": "Hundred"
     },
