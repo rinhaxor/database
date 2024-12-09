@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Crypto Slang. Part 4",
+      "answer": "LAMBOBLUM"
+    },
+    {
       "name": "DEX Evolution",
       "answer": "blumspark"
     },
