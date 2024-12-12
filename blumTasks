@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Dec 12 News",
+      "answer": "RIPPLE"
+    },
+    {
       "name": "Dec 10 News",
       "answer": "Elsalvador"
     },
