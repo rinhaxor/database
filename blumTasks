@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Blum CMO @ Blockchain Life",
+      "answer": "BLUMISLIFE"
+    },
+    {
       "name": "Dec 12 News",
       "answer": "RIPPLE"
     },
