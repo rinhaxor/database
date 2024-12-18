@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Dec 17 News",
+      "answer": "kendrick"
+    },
+    {
       "name": "Dec 16 News",
       "answer": "Bitcoin"
     },
