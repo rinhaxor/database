@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Dec 16 News",
+      "answer": "Bitcoin"
+    },
+    {
       "name": "Crypto in Everyday Life",
       "answer": "BLUMANCE"
     },
