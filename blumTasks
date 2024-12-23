@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "History of Bitcoin",
+      "answer": "BIGPIZZA"
+    },
+    {
       "name": "Crypto Slang. Part 5",
       "answer": "Gonnablum"
     },
