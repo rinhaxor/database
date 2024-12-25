@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "History of Bitcoin",
+      "answer": "BIGPIZZA"
+    },
+    {
       "name": "Blum COO @ Blockchain Life",
       "answer": "Lifeisblum"
     },
