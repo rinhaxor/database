@@ -45,7 +45,7 @@
       "answer": "TCESS"
     },
     {
-      "question": "Proxy Re-encryption Technology secures the ___ of data.",
+      "question": "Proxy Re-encryption Technology secures the ___ of data",
       "answer": "circulation"
     },
     {
@@ -73,7 +73,7 @@
       "answer": "CD²N"
     },
     {
-      "question": "CESS Proof of Data Reduplication and Recovery (PoDR²) mechanism prevents any data loss and guarantees data integrity under any circumstance while continuously challenging storage nodes to prove data validity and availability, all executed within ___.",
+      "question": "CESS Proof of Data Reduplication and Recovery (PoDR) mechanism prevents any data loss and guarantees data integrity under any circumstance while continuously challenging storage nodes to prove data validity and availability, all executed within ___.",
       "answer": "Trusted Execution Environment"
     },
     {
