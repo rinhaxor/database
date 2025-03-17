@@ -1,0 +1,84 @@
+{
+  "quiz": [
+    {
+      "question": "CESS is a Decentralized ___ Infrastructure?",
+      "answer": "Data"
+    },
+    {
+      "question": "Name the encryption technology that enables CESS to share, circulate, and transfer data ownership among users without disclosing data privacy.",
+      "answer": "Proxy Re-encryption Technology"
+    },
+    {
+      "question": "Which proof algorithm is used to validate space for generated idle files?",
+      "answer": "Proof of Idle Space"
+    },
+    {
+      "question": "What is the maximum file size that can be uploaded to Deshare?",
+      "answer": "100MB"
+    },
+    {
+      "question": "What mechanism prevents any data loss and guarantees data availability?",
+      "answer": "PoDR²"
+    },
+    {
+      "question": "CESS Network has 4 types of nodes, including: Consensus Nodes, ___ Nodes, Cache Nodes and Retrieval Nodes.",
+      "answer": "Storage"
+    },
+    {
+      "question": "How many SDKs does CESS support?",
+      "answer": "3"
+    },
+    {
+      "question": "What is the full form of DeOSS?",
+      "answer": "Decentralized Object Storage Service"
+    },
+    {
+      "question": "DeOSS is the ___ to the CESS Network.",
+      "answer": "Gateway"
+    },
+    {
+      "question": "Can $CESS Tokens be transferred through Metamask? (Yes/No)",
+      "answer": "Yes"
+    },
+    {
+      "question": "What is the token name for the CESS testnet?",
+      "answer": "TCESS"
+    },
+    {
+      "question": "Proxy Re-encryption Technology secures the ___ of data.",
+      "answer": "circulation"
+    },
+    {
+      "question": "Distributed content delivery layer includes ___ Node and Cache Node.",
+      "answer": "Retrieval"
+    },
+    {
+      "question": "How many validators are selected to produce blocks in Random Rotational Selection?",
+      "answer": "11"
+    },
+    {
+      "question": "In which year was CESS team formed?",
+      "answer": "2019"
+    },
+    {
+      "question": "CESS proposed IEEE P___ decentralized storage standard protocol.",
+      "answer": "3233"
+    },
+    {
+      "question": "In which year was CESS Testnet v0.1 launched?",
+      "answer": "2021"
+    },
+    {
+      "question": "Achieve millisecond-level hot data access in a decentralized storage system with CESS's ___.",
+      "answer": "CD²N"
+    },
+    {
+      "question": "CESS Proof of Data Reduplication and Recovery (PoDR²) mechanism prevents any data loss and guarantees data integrity under any circumstance while continuously challenging storage nodes to prove data validity and availability, all executed within ___.",
+      "answer": "Trusted Execution Environment"
+    },
+    {
+      "question": "___ ensures data privacy with compliance routing, keeping data within borders and easing national security concerns.",
+      "answer": "Location-based Storage Selection"
+    }
+  ]
+}
