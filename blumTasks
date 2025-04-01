@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "S1 Weekly Giveaway",
+      "answer": "GIVEAWAY"
+    },
+    {
       "name": "Blum Latest Updates.",
       "answer": "BLUMGOESAI"
     },
