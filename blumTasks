@@ -1,6 +1,18 @@
 {
   "tasks": [
     {
+      "name": "Blums TGE teaser",
+      "answer": "TGETHISSPRING"
+    },
+    {
+      "name": "Blum Latest update",
+      "answer": "BLUMGOESAI"
+    },
+    {
+      "name": "Limit order at Blum",
+      "answer": "Limitorderslive"
+    },
+    {
       "name": "S1 Weekly Giveaway",
       "answer": "GIVEAWAY"
     },
