@@ -1,6 +1,10 @@
 {
   "tasks": [
     {
+      "name": "Interview with Vladimir Smerkis",
+      "answer": "TRADEWITHBLUM"
+    },
+    {
       "name": "Blum's TGE teaser",
       "answer": "TGETHISSPRING"
     },
